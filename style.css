@@ -16,3 +16,17 @@ margin: 0;
 padding: 0;
 box-sizing: border-box;
 }
+
+.conteudo-principal {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+font-size: 32px;
+}
+
+.botoes{
+    background-color: var(--botao-inativo);
+    color: var(--branco);
+    
+}
