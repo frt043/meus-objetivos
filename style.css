@@ -28,5 +28,5 @@ font-size: 32px;
 .botoes{
     background-color: var(--botao-inativo);
     color: var(--branco);
-    
+    font-size: 24px;
 }
