@@ -9,4 +9,8 @@ root{
 
 body {
 background-color: var(--cor-do-fundo);
+color: var(--branco);
+margin: 0;
+padding: 0;
+box-sizing: border-box;
 }
