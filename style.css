@@ -46,3 +46,12 @@ font-size: 32px;
 
 
 }
+
+.botoes {
+    display: block;
+}
+
+ @media screen and (mn-width 768px) {
+    
+ }
+    
