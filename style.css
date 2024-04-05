@@ -76,6 +76,20 @@ body {
     display: none;
 }
 
+.aba-conteudo-titulo-principal {
+    text-align: center;
+    font-size: 24px;
+}
+
+.aba-conteudo-titulo-secundario {
+    text-align: center;
+    font-size: 16px;
+    color: var(--verde);
+    text-transform: uppercase;
+
+}
+
+
 .botao:first-child {
     border-radius: 40px 40px 0 0;
 }
