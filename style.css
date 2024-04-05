@@ -57,7 +57,7 @@ body {
     display: block;
 }
 
-.ativo {
+.botao.ativo {
     background-color: var(--botao-ativo);
     border-bottom: 4px solid var(--verde);
 }
@@ -66,6 +66,14 @@ body {
     padding: 40px;
     border-radius: 0 0 40px 40px;
 
+
+}
+
+.aba-conteudo.ativo {
+    display: block;
+}
+.aba-conteudo {
+    display: none;
 }
 
 .botao:first-child {
