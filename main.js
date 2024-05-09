@@ -34,7 +34,7 @@ atualizaCronometro();
 setInterval(atualizaCronometro, 1000);
 }
 
-comecaCronometro();f
+//comecaCronometro();f
 
 
 function calculaTempo(tempoObjetivo1) {
